@@ -1,0 +1,16 @@
+<script>
+export default {
+    name:'Header'
+
+}
+</script>
+
+<template>
+
+    <h2>header</h2>
+  
+</template>
+
+<style scoped lang="scss">
+
+</style>

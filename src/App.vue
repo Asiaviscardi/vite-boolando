@@ -1,8 +1,10 @@
 <script>
 import Header from './components/icons/Header.vue';
+import Main from './components/icons/Main.vue';
 export default {
   components:{
-    Header
+    Header,
+    Main
   }
 
 }
@@ -10,8 +12,8 @@ export default {
 
 <template>
 
-  <Header/>
-
+  <Header/>,
+  <Main/>
 
   
 </template>

@@ -46,17 +46,6 @@ export default {
 
 <style scoped lang="scss">
 
-a{
-    text-decoration: none;
-    color: white;
-    
-}
-
-li{
-    list-style: none;
-    margin-right: 7px;
-}
-
 .barra{
     width: 100%;
     height: 50px;
@@ -70,12 +59,23 @@ li{
     align-items: center;
 }
 
-.lb{
-    align-items: center;
+li{
+    list-style: none;
+    margin-right: 7px;
+
+    a{
+    text-decoration: none;
+    color: white;
+    
+}
 }
 
-#logo{
+.lb{
+    align-items: center;
+
+    #logo{
     width: 100px;
+}
 }
 
 .funzioni i{
@@ -83,7 +83,5 @@ li{
     margin-right: 3px;
     
 }
-
-
 
 </style>

@@ -25,17 +25,17 @@ export default {
 
 <div class="lb pad flex">
 
-    <img id="logo" src="img/boolean-logo.png" alt="">
+    <img id="logo" src="../../../src/assets/booleanlogo.png" alt="">
 
 </div>
 
 <div class="funzioni pad">
 
-    <i class="fa-regular fa-user" style="color: #ffffff;"></i>
+    <!-- <i class="fa-regular fa-user" style="color: #ffffff;"></i>
 
     <i class="fa-regular fa-heart" style="color: #ffffff;"></i>
 
-    <i class="fa-solid fa-bag-shopping" style="color: #ffffff;"></i>
+    <i class="fa-solid fa-bag-shopping" style="color: #ffffff;"></i> -->
 
     
 </div>

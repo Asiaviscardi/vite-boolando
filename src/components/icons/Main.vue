@@ -47,15 +47,13 @@ export default {
 
 <div class="sconto">30%</div>
 
-<div class="sos">Sostenibilità</div>
-
 <div class="specifiche">
 
-    <div class="marca">Levi's</div>
+    <div class="marca">Guess</div>
 
-    <h3 class="descrizione">RELAXED FIT TEE UNISEX</h3>
+    <h3 class="descrizione">ROSES TEE</h3>
 
-    <div class="prezzo">14.99 &euro; <span>29,99 &euro;</span></div>
+    <div class="prezzo">20.99 &euro; <span>29,99 &euro;</span></div>
 
 </div>
 
@@ -73,13 +71,37 @@ export default {
 
 <div class="sconto">30%</div>
 
+<div class="specifiche">
+
+    <div class="marca">Come Zucchero Filato</div>
+
+    <h3 class="descrizione">VOGLIA DI COLORI PASTELLO</h3>
+
+    <div class="prezzo">129.99 &euro; <span>184,99 &euro;</span></div>
+
+</div>
+
+</div>
+
+<div class="card flex">
+
+<img src="../../../public/favicon.ico" alt="">
+
+<div class="cuore">
+
+    <p>&hearts;</p>
+
+</div>
+
+<div class="sconto">50%</div>
+
 <div class="sos">Sostenibilità</div>
 
 <div class="specifiche">
 
     <div class="marca">Levi's</div>
 
-    <h3 class="descrizione">RELAXED FIT TEE UNISEX</h3>
+    <h3 class="descrizione">TEE UNISEX</h3>
 
     <div class="prezzo">14.99 &euro; <span>29,99 &euro;</span></div>
 
@@ -97,17 +119,13 @@ export default {
 
 </div>
 
-<div class="sconto">30%</div>
-
-<div class="sos">Sostenibilità</div>
-
 <div class="specifiche">
 
-    <div class="marca">Levi's</div>
+    <div class="marca">Maya Deluxe</div>
 
-    <h3 class="descrizione">RELAXED FIT TEE UNISEX</h3>
+    <h3 class="descrizione">STRIPE BODICE</h3>
 
-    <div class="prezzo">14.99 &euro; <span>29,99 &euro;</span></div>
+    <div class="prezzo">99.99 &euro;</div>
 
 </div>
 
@@ -123,43 +141,15 @@ export default {
 
 </div>
 
-<div class="sconto">30%</div>
-
 <div class="sos">Sostenibilità</div>
 
 <div class="specifiche">
 
-    <div class="marca">Levi's</div>
+    <div class="marca">Espnt</div>
 
-    <h3 class="descrizione">RELAXED FIT TEE UNISEX</h3>
+    <h3 class="descrizione">MAGLIONE - BLACK</h3>
 
-    <div class="prezzo">14.99 &euro; <span>29,99 &euro;</span></div>
-
-</div>
-
-</div>
-
-<div class="card flex">
-
-<img src="../../../public/favicon.ico" alt="">
-
-<div class="cuore">
-
-    <p>&hearts;</p>
-
-</div>
-
-<div class="sconto">30%</div>
-
-<div class="sos">Sostenibilità</div>
-
-<div class="specifiche">
-
-    <div class="marca">Levi's</div>
-
-    <h3 class="descrizione">RELAXED FIT TEE UNISEX</h3>
-
-    <div class="prezzo">14.99 &euro; <span>29,99 &euro;</span></div>
+    <div class="prezzo">29.99 &euro;</div>
 
 </div>
 
